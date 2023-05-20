@@ -1,0 +1,1 @@
+const signUpRedirect = () => { window.location.pathname = ('/signup.html');}
