@@ -1,1 +1,1 @@
-const signUpRedirect = () => { window.location.pathname = ('/signup.html');}
+const signUpRedirect = () => { window.location.pathname = ('/moradapp/signup.html');}
