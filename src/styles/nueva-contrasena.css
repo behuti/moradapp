@@ -82,6 +82,7 @@ body {
     min-width: 292px;
     cursor: pointer;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 label {
