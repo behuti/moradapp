@@ -16,6 +16,8 @@ body {
 }
 #container{
     padding: 20px;
+    max-width: 414px;
+    margin: 0 auto;
 }
 .descripcion{
     margin-bottom: 40px;
@@ -68,6 +70,7 @@ body {
     bottom: 0;
     width: 100%;
     box-sizing: border-box;
+    text-align: center;
 }
 .numerico{
     width: 129px;
