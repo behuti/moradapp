@@ -3,13 +3,13 @@
 /*font-family: 'Rubik', sans-serif;
 font-family: 'Source Sans Pro', sans-serif;*/
 
-body{
+body {
     background-color: #F5F5F5;
     text-align: center;
     margin: 0;
 }
 
-.boton{
+.boton {
     background-color: #f2a413;
     color: #F5F5F5;
     border-radius: 30px;
@@ -23,33 +23,35 @@ body{
     max-width: 400px;
     border: none;
     margin: 0 auto;
+    cursor: pointer;
 }
 
-#simbolo{
+#simbolo {
     width: 60px;
     margin-top: 40px;
 }
 
-#logo{
+#logo {
     width: 200px;
 }
 
-#ilustracion{
+#ilustracion {
     width: 100%;
     max-width: 400px;
 }
 
-#titulo{
+#titulo {
     font-family: 'Rubik', sans-serif;
     font-size: 25px;
     color: #434343;
     margin-bottom: 40px;
 }
-.morado{
+
+.morado {
     color: #673ab7;
 }
 
-#footer{
+#footer {
     background-color: #673ab7;
     padding: 80px;
     padding-top: 40px;
@@ -57,7 +59,7 @@ body{
     border-top-right-radius: 72px 72px
 }
 
-#legal{
+#legal {
     color: #F5F5F5;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: small;
