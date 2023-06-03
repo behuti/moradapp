@@ -40,14 +40,18 @@ input{
 
 #env {
     background-color: #673ab7;
-    
     height: 40px;
     border-radius: 80px;
     color: #ffffff;
     border: 0px;
     border-style: solid;
-    padding: 0px 80px;
+    padding: 0px 60px;
     margin-inline: 53px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .textcor {

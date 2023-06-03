@@ -11,6 +11,7 @@ body {
 
 .boton {
     background-color: #f2a413;
+    text-decoration: none;
     color: #F5F5F5;
     border-radius: 30px;
     padding: 12px 16px;
@@ -18,7 +19,9 @@ body {
     font-weight: 400;
     font-size: 16px;
     box-sizing: border-box;
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     max-width: 400px;
     border: none;
